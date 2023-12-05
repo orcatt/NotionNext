@@ -30,9 +30,8 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    '🤝 专修交互与设计',
+    '🤝 动感单车爱好者',
     '🏃 脚踏实地行动派',
-    '🔍 有氧健身中毒派',
     '💪 壮汉人狠话不多'
   ],
   HEO_INFO_CARD_URL: 'https://github.com/orcatt', // 个人资料底部按钮链接
