@@ -32,7 +32,7 @@ const CONFIG = {
     '你好！我是',
     '🏃 付诸理性的行动派',
     '🤝 头圆，脾气还算稳定',
-    'ESTJ 热情，固执，并不很E',
+    '😈 ESTJ 热情，固执，并不很E',
     '💪热衷运动但爱吃碳水'
   ],
   HEO_INFO_CARD_URL: 'https://github.com/orcatt', // 个人资料底部按钮链接
